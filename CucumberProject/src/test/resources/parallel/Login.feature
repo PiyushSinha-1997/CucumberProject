@@ -1,4 +1,4 @@
-Feature: Login Page feature
+Feature: Login Page feature.
 In order to test the application
 As a registered user
 I want to specify feature of Login Page
